@@ -13,7 +13,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khursheed33/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khursheed333)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/khursheed33)
+[![Instagram](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.instagram.com/user/khursheed33)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/khursheed33)
+[![Telegram](https://img.shields.io/badge/Telegram-008AD3?style=for-the-badge&logo=telegram&logoColor=white)](https://www.telegram.com/user/alam_33)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=telegram&logoColor=white)](https://www.facebook.com/user/khurshed.chaudhary)
 
 <!-- [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 
