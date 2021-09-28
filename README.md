@@ -51,8 +51,8 @@
  MongoDB
 
 🔥 Editors: 
-VS Code
-Android Studio
+ VS Code
+ Android Studio
 
 ```
 
