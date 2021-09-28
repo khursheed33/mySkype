@@ -15,15 +15,15 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/khursheed33)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/khursheed33)
 
-[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+<!-- [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
+ -->
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa?si=ede17fe9c1ce459a)
 
 ---
 
@@ -42,18 +42,22 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Chicago
+⌚︎ Time Zone: Mumbai / New Delhi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+ Dart with Flutter
+ Node.js
+ Express
+ MongoDB
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code
+Android Studio
 
 ```
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 
 
