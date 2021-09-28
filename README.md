@@ -68,7 +68,13 @@
 
 <!-- [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]() -->
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]() -->
+[![Flutter](https://img.shields.io/badge/Flutter-008AD3?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-008AD3?style=for-the-badge&logo=dart&logoColor=white)]()
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+
+[![C](https://img.shields.io/badge/C-008AD3?style=for-the-badge&logo=c&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-008AD3?style=for-the-badge&logo=python&logoColor=yellow)]()
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Express.JS](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
