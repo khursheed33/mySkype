@@ -23,7 +23,7 @@
  -->
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa?si=ede17fe9c1ce459a)
+[![Spotify](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa?si=ede17fe9c1ce459a)](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa?si=ede17fe9c1ce459a)
 
 ---
 
