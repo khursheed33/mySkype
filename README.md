@@ -1,13 +1,18 @@
-# Hi there, I'm Khursheed - Khursheed <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Khursheed <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## I'm a Flutter Developer - upcoming MERN stack Developer
 
+ I'm a software engineer who is passionate about making High Performance Application using Flutter, Some technologies I enjoy working with include JavaScripts, Node.js, PHP, HTML5, CSS3, Bootstrap4/5, Python and C.
+
+
 - 🌱 I am currently learning more about MERN stack development.
 - 🏆 2022 Goals: Contribute more to Open Source Projects and Build Some interesting projects.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/khursheed33/)
 - 😄 Pronouns: He/Him
+
+
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khursheed33)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khursheed33/)
@@ -29,7 +34,11 @@
 
 ---
 
-<!--START_SECTION:waka-->
+
+<table border="0">
+ <tr>
+    <td>
+    <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
@@ -39,6 +48,18 @@
 🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
+
+      td>
+    <td>
+    ______________________________________________________________________________________
+![github stats](https://github-readme-stats.vercel.app/api?username=khursheed33&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=khursheed33.khursheed33) 
+______________________________________________________________________________________
+  </td>
+ </tr>
+ 
+</table>
 
 
 📊 **This Week I Spent My Time On** 
@@ -88,6 +109,13 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Android-Studio](https://img.shields.io/badge/Android-blue?style=for-the-badge&logo=androidstudio&logoColor=white)]()
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> Khursheed Gaddi
+
+⭐️ From [Khursheed Gaddi](http://www.github.com/khursheed33)
+
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
