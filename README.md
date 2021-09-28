@@ -37,29 +37,35 @@
 
 <table border="0">
  <tr>
+    <td><b style="font-size:30px">Actions</b></td>
+    <td><b style="font-size:30px">Analytics</b></td>
+ </tr>
+ <tr>
     <td>
-    <!--START_SECTION:waka-->
+     
+      <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    169 commits    ██████████░░░░░░░░░░░░░░░   41.73% 
-🌆 Daytime    153 commits    █████████░░░░░░░░░░░░░░░░   37.78% 
-🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
-🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0%
+🌞 Morning    169 commits      41.73% 
+🌆 Daytime    153 commits   37.78% 
+🌃 Evening    2 commits       0.49% 
+🌙 Night      81 commits     20.0%
 
 ```
-
-      td>
+  
+  </td>
     <td>
-    ______________________________________________________________________________________
 ![github stats](https://github-readme-stats.vercel.app/api?username=khursheed33&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=khursheed33.khursheed33) 
-______________________________________________________________________________________
+
+  
   </td>
  </tr>
- 
 </table>
+
+
 
 
 📊 **This Week I Spent My Time On** 
