@@ -12,7 +12,7 @@ class FirebaseMethods {
       FirebaseFirestore.instance;
 
   Future<User> getCurrentUser() async {
-    User _user;
+    User? _user;
     _user = _auth.currentUser!;
     return _user;
   }
@@ -60,5 +60,11 @@ class FirebaseMethods {
             ),
           ),
         );
+  }
+
+  Future<void> signOutUser() async {
+    await _googleSignIn.disconnect();
+    await _googleSignIn.signOut();
+    return await _auth.signOut();
   }
 }

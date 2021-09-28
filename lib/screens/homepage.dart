@@ -1,16 +1,57 @@
 import 'package:flutter/material.dart';
 
-class Homepage extends StatelessWidget {
+class Homepage extends StatefulWidget {
   const Homepage({Key? key}) : super(key: key);
+
+  @override
+  State<Homepage> createState() => _HomepageState();
+}
+
+class _HomepageState extends State<Homepage> {
+  // final FirebaseRepositories _repositories = FirebaseRepositories();
+  // bool _isSingingOut = false;
+  final List _pages = const [
+    Center(
+      child: Text("Chat List"),
+    ),
+    Center(
+      child: Text("Call Logs"),
+    ),
+    Center(
+      child: Text("Contact"),
+    ),
+  ];
+  int? _currentIndex = 0;
+  void updateIndex(int? index) {
+    setState(() {
+      _currentIndex = index;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        centerTitle: true,
-        title: const Text("My Skype"),
-      ),
-      body: const Center(
-        child: Text("Welcome to Homepage"),
+      body: _pages[_currentIndex!],
+      bottomNavigationBar: BottomNavigationBar(
+        onTap: (val) => updateIndex(val),
+        currentIndex: _currentIndex!,
+        items: const [
+          BottomNavigationBarItem(
+              icon: Icon(
+                Icons.chat,
+              ),
+              label: "Chat"),
+          BottomNavigationBarItem(
+              icon: Icon(
+                Icons.call,
+              ),
+              label: "Call"),
+          BottomNavigationBarItem(
+              icon: Icon(
+                Icons.contact_page,
+              ),
+              label: "Contact"),
+        ],
       ),
     );
   }

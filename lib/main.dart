@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
           if (futureData.hasData) {
             return const Homepage();
           } else {
-            return LoginScreen();
+            return const LoginScreen();
           }
         },
       ),
