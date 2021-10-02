@@ -46,7 +46,6 @@ class _LoginScreenState extends State<LoginScreen> {
       _isLoggingIn = true;
     });
     _repositories.signIn().then((User user) {
-      debugPrint("Got User:::::");
       authenticateUser(user, context);
     });
   }
@@ -57,12 +56,8 @@ class _LoginScreenState extends State<LoginScreen> {
         _isLoggingIn = false;
       });
       if (isNewUser) {
-        debugPrint("Registering User:::::");
-
         // Register the user
         _repositories.addDataToDB(user).then((value) {
-          debugPrint("Registerd User:::::");
-
           return Navigator.pushReplacement(
             context,
             MaterialPageRoute(
@@ -71,8 +66,6 @@ class _LoginScreenState extends State<LoginScreen> {
           );
         });
       } else {
-        debugPrint("Login in User:::::");
-
         // Login the user
         return Navigator.pushReplacement(
           context,

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:myskype/screens/chat_screen.dart';
 
 class Homepage extends StatefulWidget {
   const Homepage({Key? key}) : super(key: key);
@@ -12,14 +13,12 @@ class _HomepageState extends State<Homepage> {
   // bool _isSingingOut = false;
   final List _pages = const [
     Center(
-      child: Text("Chat List"),
+      child: ChatScreen(),
     ),
     Center(
       child: Text("Call Logs"),
     ),
-    Center(
-      child: Text("Contact"),
-    ),
+    Center(child: Text("Contacts")),
   ];
   int? _currentIndex = 0;
   void updateIndex(int? index) {
